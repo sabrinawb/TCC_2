@@ -1,3 +1,6 @@
+#AUTORES: SABRINA BASSAI E ANA VITÓRIA LACHOWSKI 
+#TRABALHO DE CONCLUSÃO DE CURSO 2 DO CURSO DE ENG ELÉTRICA DA UTFPR
+#05/2023
 from numpy.core.multiarray import concatenate
 
 import pandas as pd
