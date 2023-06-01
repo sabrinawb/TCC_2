@@ -1,3 +1,5 @@
+#Autores: ANA VITÓRIA LACHOWSKI E SABRINA WERZEL BASSAI
+#Trabalho de conclusão de curso 2
 from numpy.core.multiarray import concatenate
 
 import pandas as pd
