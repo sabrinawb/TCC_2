@@ -1,3 +1,7 @@
+#TRABALHO DE CONCLUSÃO DE CURSO 2
+#AUTORES: ANA VITÓRIA LACHOWSKI E SABRINA BASSAI
+#05/2023 - UTFPR
+
 from numpy.core.multiarray import concatenate
 
 import pandas as pd
